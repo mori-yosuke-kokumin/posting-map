@@ -1,7 +1,7 @@
 # posting-map
 ## アプリケーション概要
 * 町丁目ごとにポスティング状況を可視化できるシステムです。
-* 2024年東京都知事選で活躍された安野たかひろさん陣営が作成・運用されていた、オープンソースのポスター貼付け状況管理システム(https://github.com/takahiroanno2024/poster-map)を流用し、改変しています。
+* 2024年東京都知事選で活躍された安野たかひろさん陣営が作成・運用されていた、オープンソースの[ポスター貼付け状況管理システム](https://github.com/takahiroanno2024/poster-map)を流用し、改変しています。
 
 ## ライセンスについて
 * このプロジェクトは[GPL-3.0 license](https://github.com/mori-yosuke-kokumin/posting-map/blob/main/LICENSE)にて公開されています。
