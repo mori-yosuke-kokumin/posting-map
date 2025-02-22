@@ -1,0 +1,227 @@
+{
+    "1": {
+        "area_name": "青井",
+        "area_cho_max_number": "6"
+    },
+    "2": {
+        "area_name": "足立",
+        "area_cho_max_number": "4"
+    },
+    "3": {
+        "area_name": "綾瀬",
+        "area_cho_max_number": "7"
+    },
+
+    "4": {
+        "area_name": "梅島",
+        "area_cho_max_number": "3"
+    },
+    "5": {
+        "area_name": "梅田",
+        "area_cho_max_number": "8"
+    },
+    "6": {
+        "area_name": "大谷田",
+        "area_cho_max_number": "5"
+    },
+    "7": {
+        "area_name": "加平",
+        "area_cho_max_number": "3"
+    },
+    "8": {
+        "area_name": "北加平町",
+        "area_cho_max_number": "1"
+    },
+    "9": {
+        "area_name": "栗原",
+        "area_cho_max_number": "2"
+    },
+    "10": {
+        "area_name": "弘道",
+        "area_cho_max_number": "2"
+    },
+    "11": {
+        "area_name": "佐野",
+        "area_cho_max_number": "2"
+    },
+    "12": {
+        "area_name": "島根",
+        "area_cho_max_number": "4"
+    },
+    "13": {
+        "area_name": "神明",
+        "area_cho_max_number": "3"
+    },
+    "14": {
+        "area_name": "神明南",
+        "area_cho_max_number": "2"
+    },
+    "15": {
+        "area_name": "関原",
+        "area_cho_max_number": "3"
+    },
+    "16": {
+        "area_name": "千住",
+        "area_cho_max_number": "5"
+    },
+    "17": {
+        "area_name": "千住曙町",
+        "area_cho_max_number": "1"
+    },
+    "18": {
+        "area_name": "千住旭町",
+        "area_cho_max_number": "1"
+    },
+    "19": {
+        "area_name": "千住東",
+        "area_cho_max_number": "2"
+    },
+    "20": {
+        "area_name": "千住大川町",
+        "area_cho_max_number": "1"
+    },
+    "21": {
+        "area_name": "千住河原町",
+        "area_cho_max_number": "1"
+    },
+    "22": {
+        "area_name": "千住寿町",
+        "area_cho_max_number": "1"
+    },
+    "23": {
+        "area_name": "千住桜木",
+        "area_cho_max_number": "2"
+    },
+    "24": {
+        "area_name": "千住関屋町",
+        "area_cho_max_number": "1"
+    },
+    "25": {
+        "area_name": "千住龍田町",
+        "area_cho_max_number": "1"
+    },
+    "26": {
+        "area_name": "千住中居町",
+        "area_cho_max_number": "1"
+    },
+    "27": {
+        "area_name": "千住仲町",
+        "area_cho_max_number": "1"
+    },
+    "28": {
+        "area_name": "千住橋戸町",
+        "area_cho_max_number": "1"
+    },
+    "29": {
+        "area_name": "千住緑町",
+        "area_cho_max_number": "3"
+    },
+    "30": {
+        "area_name": "千住宮元町",
+        "area_cho_max_number": "1"
+    },
+    "31": {
+        "area_name": "千住元町",
+        "area_cho_max_number": "1"
+    },
+    "32": {
+        "area_name": "千住柳町",
+        "area_cho_max_number": "1"
+    },
+    "33": {
+        "area_name": "竹の塚",
+        "area_cho_max_number": "7"
+    },
+    "34": {
+        "area_name": "辰沼",
+        "area_cho_max_number": "2"
+    },
+    "35": {
+        "area_name": "中央本町",
+        "area_cho_max_number": "5"
+    },
+    "36": {
+        "area_name": "東和",
+        "area_cho_max_number": "5"
+    },
+    "37": {
+        "area_name": "中川",
+        "area_cho_max_number": "5"
+    },
+    "38": {
+        "area_name": "西綾瀬",
+        "area_cho_max_number": "4"
+    },
+    "39": {
+        "area_name": "西新井栄町",
+        "area_cho_max_number": "2"
+    },
+    "40": {
+        "area_name": "西加平",
+        "area_cho_max_number": "2"
+    },
+    "41": {
+        "area_name": "西保木間",
+        "area_cho_max_number": "4"
+    },
+    "42": {
+        "area_name": "花畑",
+        "area_cho_max_number": "8"
+    },
+    "43": {
+        "area_name": "東綾瀬",
+        "area_cho_max_number": "3"
+    },
+    "44": {
+        "area_name": "東保木間",
+        "area_cho_max_number": "2"
+    },
+    "45": {
+        "area_name": "東六月町",
+        "area_cho_max_number": "1"
+    },
+    "46": {
+        "area_name": "一ツ家",
+        "area_cho_max_number": "4"
+    },
+    "47": {
+        "area_name": "日ノ出町",
+        "area_cho_max_number": "1"
+    },
+    "48": {
+        "area_name": "平野",
+        "area_cho_max_number": "3"
+    },
+    "49": {
+        "area_name": "保木間",
+        "area_cho_max_number": "5"
+    },
+    "50": {
+        "area_name": "保塚町",
+        "area_cho_max_number": "1"
+    },
+    "51": {
+        "area_name": "南花畑",
+        "area_cho_max_number": "5"
+    },
+    "52": {
+        "area_name": "六木",
+        "area_cho_max_number": "4"
+    },
+    "53": {
+        "area_name": "谷中",
+        "area_cho_max_number": "5"
+    },
+    "54": {
+        "area_name": "柳原",
+        "area_cho_max_number": "2"
+    },
+    "55": {
+        "area_name": "六月",
+        "area_cho_max_number": "3"
+    },
+    "56": {
+        "area_name": "六町",
+        "area_cho_max_number": "4"
+    }
+}

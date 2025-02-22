@@ -1,0 +1,456 @@
+{
+  "1": {
+      "_comment": "青井1~6丁目"
+      ,"_comment_progresses": "進捗率(0.0～1)。0%は0.0,100%は1.0"
+      ,"progresses": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+      ,"_comment_is_working": "投函予定→true,それ以外→false"
+      ,"is_working": [false, false, false, false, false, false]
+      ,"_comment_posting_date": "投函日。[\"25年2月1日\", \"25年3月1日,25年3月10日\"]のように記入"
+      ,"posting_date": ["", "", "", "", "", ""]
+      ,"_comment_executer": "作業者。[\"足立碧\", \"梅田凛,綾瀬蓮\"]のように記入"
+      ,"executer": ["", "", "", "", "", ""]
+      ,"_comment_notes": "備考欄"
+      ,"notes": ["", "", "", "", "", ""]
+  },
+  "2": {
+    "_comment": "足立1~4丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false]
+    ,"posting_date": ["", "", "", ""]
+    ,"executer": ["", "", "", ""]
+    ,"notes": ["", "", "", ""]
+  },
+  "3": {
+    "_comment": "綾瀬1~7丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", "", "", ""]
+    ,"executer": ["", "", "", "", "", "", ""]
+    ,"notes": ["", "", "", "", "", "", ""]
+  },
+  "4": {
+    "_comment": "梅島1~3丁目",
+    "progresses": [0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false]
+    ,"posting_date": ["", "", ""]
+    ,"executer": ["", "", ""]
+    ,"notes": ["", "", ""]
+  },
+  "5": {
+    "_comment": "梅田1~8丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", "", "", "", ""]
+    ,"executer": ["", "", "", "", "", "", "", ""]
+    ,"notes": ["", "", "", "", "", "", "", ""]
+  },
+  "6": {
+    "_comment": "大谷田1~5丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", ""]
+    ,"executer": ["", "", "", "", ""]
+    ,"notes": ["", "", "", "", ""]
+  },
+  "7": {
+    "_comment": "加平1~3丁目",
+    "progresses": [0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false]
+    ,"posting_date": ["", "", ""]
+    ,"executer": ["", "", ""]
+    ,"notes": ["", "", ""]
+  },
+  "8": {
+    "_comment": "北加平町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "9": {
+    "_comment": "栗原1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "10": {
+    "_comment": "弘道1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "11": {
+    "_comment": "佐野1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "12": {
+    "_comment": "島根1~4丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false]
+    ,"posting_date": ["", "", "", ""]
+    ,"executer": ["", "", "", ""]
+    ,"notes": ["", "", "", ""]
+  },
+  "13": {
+    "_comment": "神明1~3丁目",
+    "progresses": [0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false]
+    ,"posting_date": ["", "", ""]
+    ,"executer": ["", "", ""]
+    ,"notes": ["", "", ""]
+  },
+  "14": {
+    "_comment": "神明南1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "15": {
+    "_comment": "関原1~3丁目",
+    "progresses": [0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false]
+    ,"posting_date": ["", "", ""]
+    ,"executer": ["", "", ""]
+    ,"notes": ["", "", ""]
+  },
+  "16": {
+    "_comment": "千住1~5丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", ""]
+    ,"executer": ["", "", "", "", ""]
+    ,"notes": ["", "", "", "", ""]
+  },
+  "17": {
+    "_comment": "千住曙町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "18": {
+    "_comment": "千住旭町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "19": {
+    "_comment": "千住東1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "20": {
+    "_comment": "千住大川町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "21": {
+    "_comment": "千住河原町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "22": {
+    "_comment": "千住寿町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "23": {
+    "_comment": "千住桜木1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "24": {
+    "_comment": "千住関屋町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "25": {
+    "_comment": "千住龍田町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "26": {
+    "_comment": "千住中居町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "27": {
+    "_comment": "千住仲町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "28": {
+    "_comment": "千住橋戸町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "29": {
+    "_comment": "千住緑町1~3丁目",
+    "progresses": [0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false]
+    ,"posting_date": ["", "", ""]
+    ,"executer": ["", "", ""]
+    ,"notes": ["", "", ""]
+  },
+  "30": {
+    "_comment": "千住宮元町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "31": {
+    "_comment": "千住元町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "32": {
+    "_comment": "千住柳町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "33": {
+    "_comment": "竹の塚1~7丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", "", "", ""]
+    ,"executer": ["", "", "", "", "", "", ""]
+    ,"notes": ["", "", "", "", "", "", ""]
+  },
+  "34": {
+    "_comment": "辰沼1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "35": {
+    "_comment": "中央本町1~5丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", ""]
+    ,"executer": ["", "", "", "", ""]
+    ,"notes": ["", "", "", "", ""]
+  },
+  "36": {
+    "_comment": "東和1~5丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", ""]
+    ,"executer": ["", "", "", "", ""]
+    ,"notes": ["", "", "", "", ""]
+  },
+  "37": {
+    "_comment": "中川1~5丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", ""]
+    ,"executer": ["", "", "", "", ""]
+    ,"notes": ["", "", "", "", ""]
+  },
+  "38": {
+    "_comment": "西綾瀬1~4丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false]
+    ,"posting_date": ["", "", "", ""]
+    ,"executer": ["", "", "", ""]
+    ,"notes": ["", "", "", ""]
+  },
+  "39": {
+    "_comment": "西新井栄町1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "40": {
+    "_comment": "西加平1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "41": {
+    "_comment": "西保木間1~4丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false]
+    ,"posting_date": ["", "", "", ""]
+    ,"executer": ["", "", "", ""]
+    ,"notes": ["", "", "", ""]
+  },
+  "42": {
+    "_comment": "花畑1~8丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", "", "", "", ""]
+    ,"executer": ["", "", "", "", "", "", "", ""]
+    ,"notes": ["", "", "", "", "", "", "", ""]
+  },
+  "43": {
+    "_comment": "東綾瀬1~3丁目",
+    "progresses": [0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false]
+    ,"posting_date": ["", "", ""]
+    ,"executer": ["", "", ""]
+    ,"notes": ["", "", ""]
+  },
+  "44": {
+    "_comment": "東保木間1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [false, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "45": {
+    "_comment": "東六月町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "46": {
+    "_comment": "一ツ家1~4丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false]
+    ,"posting_date": ["", "", "", ""]
+    ,"executer": ["", "", "", ""]
+    ,"notes": ["", "", "", ""]
+  },
+  "47": {
+    "_comment": "日ノ出町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "48": {
+    "_comment": "平野1~3丁目",
+    "progresses": [0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false]
+    ,"posting_date": ["", "", ""]
+    ,"executer": ["", "", ""]
+    ,"notes": ["", "", ""]
+  },
+  "49": {
+    "_comment": "保木間1~5丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", ""]
+    ,"executer": ["", "", "", "", ""]
+    ,"notes": ["", "", "", "", ""]
+  },
+  "50": {
+    "_comment": "保塚町",
+    "progresses": [0.0]
+    ,"is_working": [false]
+    ,"posting_date": [""]
+    ,"executer": [""]
+    ,"notes": [""]
+  },
+  "51": {
+    "_comment": "南花畑1~5丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", ""]
+    ,"executer": ["", "", "", "", ""]
+    ,"notes": ["", "", "", "", ""]
+  },
+  "52": {
+    "_comment": "六木1~4丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false]
+    ,"posting_date": ["", "", "", ""]
+    ,"executer": ["", "", "", ""]
+    ,"notes": ["", "", "", ""]
+  },
+  "53": {
+    "_comment": "谷中1~5丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false, false]
+    ,"posting_date": ["", "", "", "", ""]
+    ,"executer": ["", "", "", "", ""]
+    ,"notes": ["", "", "", "", ""]
+  },
+  "54": {
+    "_comment": "柳原1~2丁目",
+    "progresses": [0.0, 0.0]
+    ,"is_working": [true, false]
+    ,"posting_date": ["", ""]
+    ,"executer": ["", ""]
+    ,"notes": ["", ""]
+  },
+  "55": {
+    "_comment": "六月1~3丁目",
+    "progresses": [0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false]
+    ,"posting_date": ["", "", ""]
+    ,"executer": ["", "", ""]
+    ,"notes": ["", "", ""]
+  },
+  "56": {
+    "_comment": "六町1~4丁目",
+    "progresses": [0.0, 0.0, 0.0, 0.0]
+    ,"is_working": [false, false, false, false]
+    ,"posting_date": ["", "", "", ""]
+    ,"executer": ["", "", "", ""]
+    ,"notes": ["", "", "", ""]
+  },
+  "total": 0.00
+}
