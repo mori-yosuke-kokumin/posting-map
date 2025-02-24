@@ -78,9 +78,9 @@
   },
   "10": {
     "_comment": "弘道1~2丁目",
-    "progresses": [0.0, 0.0]
+    "progresses": [1.0, 0.0]
     ,"is_working": [false, false]
-    ,"posting_date": ["", ""]
+    ,"posting_date": ["25年2月25日", ""]
     ,"executer": ["", ""]
     ,"notes": ["", ""]
   },
@@ -94,9 +94,9 @@
   },
   "12": {
     "_comment": "島根1~4丁目",
-    "progresses": [0.0, 0.0, 0.0, 0.0]
+    "progresses": [0.0, 1.0, 0.0, 0.0]
     ,"is_working": [false, false, false, false]
-    ,"posting_date": ["", "", "", ""]
+    ,"posting_date": ["", "25年2月25日", "", ""]
     ,"executer": ["", "", "", ""]
     ,"notes": ["", "", "", ""]
   },
@@ -262,7 +262,7 @@
   },
   "33": {
     "_comment": "竹の塚1~7丁目",
-    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    "progresses": [1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0]
     ,"is_working": [false, false, false, false, false, false, false]
     ,"posting_date": ["", "", "", "", "", "", ""]
     ,"executer": ["", "", "", "", "", "", ""]
@@ -278,9 +278,9 @@
   },
   "35": {
     "_comment": "中央本町1~5丁目",
-    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    "progresses": [0.0, 1.0, 0.0, 0.0, 0.0]
     ,"is_working": [false, false, false, false, false]
-    ,"posting_date": ["", "", "", "", ""]
+    ,"posting_date": ["", "25年2月25日", "", "", ""]
     ,"executer": ["", "", "", "", ""]
     ,"notes": ["", "", "", "", ""]
   },
@@ -294,9 +294,9 @@
   },
   "37": {
     "_comment": "中川1~5丁目",
-    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    "progresses": [0.0, 1.0, 1.0, 0.0, 0.0]
     ,"is_working": [false, false, false, false, false]
-    ,"posting_date": ["", "", "", "", ""]
+    ,"posting_date": ["", "25年2月24日", "25年2月24日", "", ""]
     ,"executer": ["", "", "", "", ""]
     ,"notes": ["", "", "", "", ""]
   },
@@ -326,17 +326,17 @@
   },
   "41": {
     "_comment": "西保木間1~4丁目",
-    "progresses": [0.0, 0.0, 0.0, 0.0]
+    "progresses": [1.0, 0.0, 1.0, 1.0]
     ,"is_working": [false, false, false, false]
-    ,"posting_date": ["", "", "", ""]
+    ,"posting_date": ["25年2月25日", "", "25年2月25日", "25年2月25日"]
     ,"executer": ["", "", "", ""]
     ,"notes": ["", "", "", ""]
   },
   "42": {
     "_comment": "花畑1~8丁目",
-    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    "progresses": [0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0]
     ,"is_working": [false, false, false, false, false, false, false, false]
-    ,"posting_date": ["", "", "", "", "", "", "", ""]
+    ,"posting_date": ["", "", "", "", "25年2月25日", "", "", ""]
     ,"executer": ["", "", "", "", "", "", "", ""]
     ,"notes": ["", "", "", "", "", "", "", ""]
   },
@@ -358,9 +358,9 @@
   },
   "45": {
     "_comment": "東六月町",
-    "progresses": [0.0]
+    "progresses": [1.0]
     ,"is_working": [false]
-    ,"posting_date": [""]
+    ,"posting_date": ["25年2月25日"]
     ,"executer": [""]
     ,"notes": [""]
   },
@@ -398,9 +398,9 @@
   },
   "50": {
     "_comment": "保塚町",
-    "progresses": [0.0]
+    "progresses": [1.0]
     ,"is_working": [false]
-    ,"posting_date": [""]
+    ,"posting_date": ["25年2月24日"]
     ,"executer": [""]
     ,"notes": [""]
   },
@@ -438,9 +438,9 @@
   },
   "55": {
     "_comment": "六月1~3丁目",
-    "progresses": [0.0, 0.0, 0.0]
+    "progresses": [1.0, 0.0, 0.0]
     ,"is_working": [false, false, false]
-    ,"posting_date": ["", "", ""]
+    ,"posting_date": ["25年2月24日", "", ""]
     ,"executer": ["", "", ""]
     ,"notes": ["", "", ""]
   },
@@ -452,5 +452,5 @@
     ,"executer": ["", "", "", ""]
     ,"notes": ["", "", "", ""]
   },
-  "total": 0.00
+  "total": 0.09
 }
