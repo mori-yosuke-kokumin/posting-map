@@ -431,7 +431,7 @@
   "54": {
     "_comment": "柳原1~2丁目",
     "progresses": [0.0, 0.0]
-    ,"is_working": [true, false]
+    ,"is_working": [false, false]
     ,"posting_date": ["", ""]
     ,"executer": ["", ""]
     ,"notes": ["", ""]
