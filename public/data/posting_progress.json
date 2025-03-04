@@ -2,7 +2,7 @@
   "1": {
       "_comment": "青井1~6丁目"
       ,"_comment_progresses": "進捗率(0.0～1)。0%は0.0,100%は1.0"
-      ,"progresses": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+      ,"progresses": [1.0, 0.0, 0.0, 0.0, 0.0, 0.0]
       ,"_comment_is_working": "投函予定→true,それ以外→false"
       ,"is_working": [false, false, false, false, false, false]
       ,"_comment_posting_date": "投函日。[\"25年2月1日\", \"25年3月1日,25年3月10日\"]のように記入"
