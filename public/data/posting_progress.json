@@ -414,10 +414,10 @@
   },
   "52": {
     "_comment": "六木1~4丁目",
-    "progresses": [0.0, 0.0, 1.0, 0.0]
+    "progresses": [0.5, 0.0, 1.0, 0.0]
     ,"is_working": [false, false, false, false]
-    ,"posting_date": ["", "", "25年3月9日", ""]
-    ,"executer": ["", "", "やまちゃん", ""]
+    ,"posting_date": ["25年3月15日", "", "25年3月9日", ""]
+    ,"executer": ["くまさん", "", "やまちゃん", ""]
     ,"notes": ["", "", "", ""]
   },
   "53": {
