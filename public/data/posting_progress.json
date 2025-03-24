@@ -22,10 +22,10 @@
   },
   "3": {
     "_comment": "綾瀬1~7丁目",
-    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    "progresses": [1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0]
     ,"is_working": [false, false, false, false, false, false, false]
-    ,"posting_date": ["", "", "", "", "", "", ""]
-    ,"executer": ["", "", "", "", "", "", ""]
+    ,"posting_date": ["25年3月14日", "25年3月14日", "25年3月14日", "25年3月14日", "", "", ""]
+    ,"executer": ["たるたる", "たるたる", "たるたる", "たるたる", "", "", ""]
     ,"notes": ["", "", "", "", "", "", ""]
   },
   "4": {
@@ -126,18 +126,18 @@
   },
   "16": {
     "_comment": "千住1~5丁目",
-    "progresses": [0.0, 0.0, 0.0, 1.0, 0.0]
+    "progresses": [0.0, 1.0, 0.0, 1.0, 0.0]
     ,"is_working": [false, false, false, false, false]
-    ,"posting_date": ["", "", "", "25年3月13日", ""]
-    ,"executer": ["", "", "", "こころ", ""]
+    ,"posting_date": ["", "25年3月21日", "", "25年3月13日", ""]
+    ,"executer": ["", "たるたる", "", "こころ", ""]
     ,"notes": ["", "", "", "", ""]
   },
   "17": {
     "_comment": "千住曙町",
-    "progresses": [0.0]
+    "progresses": [1.0]
     ,"is_working": [false]
-    ,"posting_date": [""]
-    ,"executer": [""]
+    ,"posting_date": ["25年3月20日"]
+    ,"executer": ["たるたる"]
     ,"notes": [""]
   },
   "18": {
@@ -150,18 +150,18 @@
   },
   "19": {
     "_comment": "千住東1~2丁目",
-    "progresses": [0.0, 0.0]
+    "progresses": [1.0, 1.0]
     ,"is_working": [false, false]
-    ,"posting_date": ["", ""]
-    ,"executer": ["", ""]
+    ,"posting_date": ["25年3月20日", "25年3月20日"]
+    ,"executer": ["たるたる", "たるたる"]
     ,"notes": ["", ""]
   },
   "20": {
     "_comment": "千住大川町",
-    "progresses": [0.0]
+    "progresses": [1.0]
     ,"is_working": [false]
-    ,"posting_date": [""]
-    ,"executer": [""]
+    ,"posting_date": ["25年3月18日"]
+    ,"executer": ["たるたる"]
     ,"notes": [""]
   },
   "21": {
@@ -174,10 +174,10 @@
   },
   "22": {
     "_comment": "千住寿町",
-    "progresses": [0.0]
+    "progresses": [1.0]
     ,"is_working": [false]
-    ,"posting_date": [""]
-    ,"executer": [""]
+    ,"posting_date": ["25年3月18日"]
+    ,"executer": ["たるたる"]
     ,"notes": [""]
   },
   "23": {
@@ -214,26 +214,26 @@
   },
   "27": {
     "_comment": "千住仲町",
-    "progresses": [0.0]
+    "progresses": [1.0]
     ,"is_working": [false]
-    ,"posting_date": [""]
-    ,"executer": [""]
+    ,"posting_date": ["25年3月22日"]
+    ,"executer": ["たるたる"]
     ,"notes": [""]
   },
   "28": {
     "_comment": "千住橋戸町",
-    "progresses": [0.0]
+    "progresses": [1.0]
     ,"is_working": [false]
-    ,"posting_date": [""]
-    ,"executer": [""]
+    ,"posting_date": ["25年3月19日"]
+    ,"executer": ["たるたる"]
     ,"notes": [""]
   },
   "29": {
     "_comment": "千住緑町1~3丁目",
-    "progresses": [0.0, 0.0, 0.0]
+    "progresses": [1.0, 0.0, 0.0]
     ,"is_working": [false, false, false]
-    ,"posting_date": ["", "", ""]
-    ,"executer": ["", "", ""]
+    ,"posting_date": ["25年3月19日", "", ""]
+    ,"executer": ["たるたる", "", ""]
     ,"notes": ["", "", ""]
   },
   "30": {
@@ -310,10 +310,10 @@
   },
   "39": {
     "_comment": "西新井栄町1~2丁目",
-    "progresses": [0.0, 0.0]
+    "progresses": [1.0, 1.0]
     ,"is_working": [false, false]
-    ,"posting_date": ["", ""]
-    ,"executer": ["", ""]
+    ,"posting_date": ["25年3月15日", "3月15日"]
+    ,"executer": ["たるたる", "たるたる"]
     ,"notes": ["", ""]
   },
   "40": {
@@ -414,18 +414,18 @@
   },
   "52": {
     "_comment": "六木1~4丁目",
-    "progresses": [0.5, 0.0, 1.0, 0.0]
+    "progresses": [1.0, 0.0, 1.0, 0.0]
     ,"is_working": [false, false, false, false]
-    ,"posting_date": ["25年3月15日", "", "25年3月9日", ""]
+    ,"posting_date": ["25年3月22日", "", "25年3月9日", ""]
     ,"executer": ["くまさん", "", "やまちゃん", ""]
     ,"notes": ["", "", "", ""]
   },
   "53": {
     "_comment": "谷中1~5丁目",
-    "progresses": [0.0, 0.0, 0.0, 0.0, 0.0]
+    "progresses": [1.0, 1.0, 0.0, 0.0, 0.0]
     ,"is_working": [false, false, false, false, false]
-    ,"posting_date": ["", "", "", "", ""]
-    ,"executer": ["", "", "", "", ""]
+    ,"posting_date": ["25年3月13日", "25年3月13日", "", "", ""]
+    ,"executer": ["たるたる", "たるたる", "", "", ""]
     ,"notes": ["", "", "", "", ""]
   },
   "54": {
@@ -452,7 +452,7 @@
     ,"executer": ["メロンくん", "メロンくん", "メロンくん", "メロンくん"]
     ,"notes": ["", "", "", ""]
   },
-  "total": 0.20
+  "total": 0.30
 
 
 }
