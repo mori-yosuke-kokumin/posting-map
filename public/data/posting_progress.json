@@ -270,10 +270,10 @@
   },
   "34": {
     "_comment": "辰沼1~2丁目",
-    "progresses": [0.0, 0.0]
+    "progresses": [0.0, 1.0]
     ,"is_working": [false, false]
-    ,"posting_date": ["", ""]
-    ,"executer": ["", ""]
+    ,"posting_date": ["", "25年4月9日"]
+    ,"executer": ["", "くまさん"]
     ,"notes": ["", ""]
   },
   "35": {
