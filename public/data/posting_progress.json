@@ -118,10 +118,10 @@
   },
   "15": {
     "_comment": "関原1~3丁目",
-    "progresses": [0.0, 0.0, 0.0]
+    "progresses": [1.0, 0.0, 0.0]
     ,"is_working": [false, false, false]
-    ,"posting_date": ["", "", ""]
-    ,"executer": ["", "", ""]
+    ,"posting_date": ["25年4月18日", "", ""]
+    ,"executer": ["こころさん", "", ""]
     ,"notes": ["", "", ""]
   },
   "16": {
