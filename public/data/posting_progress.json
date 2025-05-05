@@ -350,10 +350,10 @@
   },
   "44": {
     "_comment": "東保木間1~2丁目",
-    "progresses": [0.0, 0.0]
+    "progresses": [0.0, 1.0]
     ,"is_working": [false, false]
-    ,"posting_date": ["", ""]
-    ,"executer": ["", ""]
+    ,"posting_date": ["", "25/05/04"]
+    ,"executer": ["", "こころさん"]
     ,"notes": ["", ""]
   },
   "45": {
