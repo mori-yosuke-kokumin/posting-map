@@ -86,9 +86,9 @@
   },
   "11": {
     "_comment": "佐野1~2丁目",
-    "progresses": [0.0, 1.0]
+    "progresses": [1.0, 1.0]
     ,"is_working": [false, false]
-    ,"posting_date": ["", "25年4月30日"]
+    ,"posting_date": ["2025年5月8日", "25年4月30日"]
     ,"executer": ["", "くまさん"]
     ,"notes": ["", ""]
   },
