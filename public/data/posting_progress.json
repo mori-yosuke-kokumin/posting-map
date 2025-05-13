@@ -110,10 +110,10 @@
   },
   "14": {
     "_comment": "神明南1~2丁目",
-    "progresses": [0.0, 1.0]
+    "progresses": [1.0, 1.0]
     ,"is_working": [false, false]
-    ,"posting_date": ["", "25年5月5日"]
-    ,"executer": ["", "くまさん"]
+    ,"posting_date": ["25年5月13日", "25年5月5日"]
+    ,"executer": ["くまさん", "くまさん"]
     ,"notes": ["", ""]
   },
   "15": {
