@@ -70,10 +70,10 @@
   },
   "9": {
     "_comment": "栗原1~2丁目",
-    "progresses": [0.0, 0.0]
+    "progresses": [1.0, 0.0]
     ,"is_working": [false, false]
-    ,"posting_date": ["", ""]
-    ,"executer": ["", ""]
+    ,"posting_date": ["25年5月11日", ""]
+    ,"executer": ["こころさん", ""]
     ,"notes": ["", ""]
   },
   "10": {
@@ -94,10 +94,10 @@
   },
   "12": {
     "_comment": "島根1~4丁目",
-    "progresses": [0.0, 1.0, 0.0, 0.0]
+    "progresses": [0.0, 1.0, 1.0, 0.0]
     ,"is_working": [false, false, false, false]
-    ,"posting_date": ["", "25年2月25日", "", ""]
-    ,"executer": ["", "", "", ""]
+    ,"posting_date": ["", "25年2月25日", "25年5月11日", ""]
+    ,"executer": ["", "", "こころさん", ""]
     ,"notes": ["", "", "", ""]
   },
   "13": {
@@ -452,7 +452,7 @@
     ,"executer": ["メロンくん", "メロンくん", "メロンくん", "メロンくん"]
     ,"notes": ["", "", "", ""]
   },
-  "total": 0.42
+  "total": 0.43
 
 
 }
