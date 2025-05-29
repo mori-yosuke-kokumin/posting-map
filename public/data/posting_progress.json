@@ -62,10 +62,10 @@
   },
   "8": {
     "_comment": "北加平町",
-    "progresses": [0.0]
+    "progresses": [1.0]
     ,"is_working": [false]
-    ,"posting_date": [""]
-    ,"executer": [""]
+    ,"posting_date": ["25年5月28日"]
+    ,"executer": ["くまさん"]
     ,"notes": [""]
   },
   "9": {
@@ -452,7 +452,7 @@
     ,"executer": ["メロンくん", "メロンくん", "メロンくん", "メロンくん"]
     ,"notes": ["", "", "", ""]
   },
-  "total": 0.43
+  "total": 0.44
 
 
 }
